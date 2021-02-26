@@ -1,25 +1,10 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary lighten-1" bottom>
-      <v-slider
-        class="class--page-slider"
-        hide-details
-        v-model="slider"
-        thumb-label="always"
-        thumb-size="30"
-        max="177"
-        min="1"
-      >
-        <template v-slot:prepend>
-          <div class="px-2">1</div>
-        </template>
-        <template v-slot:append>
-          <div class="px-2">77</div>
-        </template>
-      </v-slider>
-    </v-app-bar>
-
     <v-main>
+      <v-app-bar app bottom color="primary lighten-1">
+        <PageSlider />
+      </v-app-bar>
+
       <HelloWorld />
     </v-main>
   </v-app>
@@ -27,12 +12,14 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld";
+import PageSlider from "@/components/PageSlider/PageSlider";
 
 export default {
   name: "App",
 
   components: {
-    HelloWorld
+    HelloWorld,
+    PageSlider
   },
 
   data: () => ({
