@@ -1,36 +1,22 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
-      </div>
-
-      <v-spacer></v-spacer>
-
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
+    <v-app-bar app color="primary lighten-1" bottom>
+      <v-slider
+        class="class--page-slider"
+        hide-details
+        v-model="slider"
+        thumb-label="always"
+        thumb-size="30"
+        max="177"
+        min="1"
       >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
+        <template v-slot:prepend>
+          <div class="px-2">1</div>
+        </template>
+        <template v-slot:append>
+          <div class="px-2">77</div>
+        </template>
+      </v-slider>
     </v-app-bar>
 
     <v-main>
@@ -50,7 +36,26 @@ export default {
   },
 
   data: () => ({
-    //
+    slider: 1
   })
 };
 </script>
+
+<style lang="scss">
+.class--page-slider {
+  .v-slider__thumb {
+    width: 30px !important;
+    height: 30px !important;
+    left: -15px !important;
+    //opacity: 0.6;
+
+    &::before {
+      left: -3px !important;
+      top: -3px !important;
+    }
+  }
+  .v-slider__thumb-label {
+    bottom: 6px !important;
+  }
+}
+</style>
