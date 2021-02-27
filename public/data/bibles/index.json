@@ -1,0 +1,3638 @@
+[
+  {
+    "language": "korean",
+    "name": "한글",
+    "data": [
+      {
+        "bible": "krv",
+        "bibleName": "개역한글",
+        "bibleNameShort": "KRV",
+        "written": "1961년",
+        "color": "blue lighten-1",
+        "discription": "개역한글판은 개역성경전서(1938년)를 1961년 개정한 한국어 성경입니다. 개역개정판 등장 이전에는 개신교에서 많이 사용하였고, 대한 성공회에서도 1977년 공동번역성서 등장이전에 사용하였습니다.",
+        "path": "/ko/krv/",
+        "books": [
+          {
+            "cat": "old",
+            "abbr": "genesis",
+            "file": "genesis.json",
+            "title": "창세기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": "주전1500년경"
+          },
+          {
+            "cat": "old",
+            "abbr": "exodus",
+            "file": "exodus.json",
+            "title": "출애굽기",
+            "author": "모세",
+            "where": "",
+            "when": "주전1706~1490년"
+          },
+          {
+            "cat": "old",
+            "abbr": "leviticus",
+            "file": "leviticus.json",
+            "title": "레위기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": ""
+          },
+          {
+            "cat": "old",
+            "abbr": "numbers",
+            "file": "numbers.json",
+            "title": "민수기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": " 주전1490~1451년 "
+          },
+          {
+            "cat": "old",
+            "abbr": "deuteronomy",
+            "file": "deuteronomy.json",
+            "title": "신명기",
+            "author": "모세",
+            "where": "모압평원",
+            "when": "주전1491~1451년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joshua",
+            "file": "joshua.json",
+            "title": "여호수아",
+            "author": "여호수아",
+            "where": "모압평원",
+            "when": "주전1451~1426년"
+          },
+          {
+            "cat": "old",
+            "abbr": "judges",
+            "file": "judges.json",
+            "title": "사사기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1425~1120년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ruth",
+            "file": "ruth.json",
+            "title": "룻기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1322~1312년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel1",
+            "file": "samuel1.json",
+            "title": "사무엘상",
+            "author": "사무엘/나단/갓",
+            "where": "에브라임/유다",
+            "when": "주전1171~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel2",
+            "file": "samuel2.json",
+            "title": "사무엘하",
+            "author": "나단/갓",
+            "where": "가나안",
+            "when": "주전1056~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings1",
+            "file": "kings1.json",
+            "title": "열왕기상",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전1015~897년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings2",
+            "file": "kings2.json",
+            "title": "열왕기하",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전896~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles1",
+            "file": "chronicles1.json",
+            "title": "역대상",
+            "author": "에스라",
+            "where": "",
+            "when": "주전1056~1015년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles2",
+            "file": "chronicles2.json",
+            "title": "역대하",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전1015~536년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezra",
+            "file": "ezra.json",
+            "title": "에스라",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전536~457년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nehemiah",
+            "file": "nehemiah.json",
+            "title": "느헤미야",
+            "author": "느헤미야",
+            "where": "예루살렘",
+            "when": "주전446~434년"
+          },
+          {
+            "cat": "old",
+            "abbr": "esther",
+            "file": "esther.json",
+            "title": "에스더",
+            "author": "모르드개",
+            "where": "수산(성)",
+            "when": "주전486년-465년"
+          },
+          {
+            "cat": "old",
+            "abbr": "job",
+            "file": "job.json",
+            "title": "욥기",
+            "author": "욥",
+            "where": "아라비아 광야 서쪽",
+            "when": "주전2000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "psalms",
+            "file": "psalms.json",
+            "title": "시편",
+            "author": "다윗",
+            "where": "이스라엘",
+            "when": "주전1500년"
+          },
+          {
+            "cat": "old",
+            "abbr": "proverbs",
+            "file": "proverbs.json",
+            "title": "잠언",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전1000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ecclesiastes",
+            "file": "ecclesiastes.json",
+            "title": "전도서",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전977년"
+          },
+          {
+            "cat": "old",
+            "abbr": "song",
+            "file": "song.json",
+            "title": "아가",
+            "author": "솔로몬",
+            "where": "이스라엘",
+            "when": "주전970-931년"
+          },
+          {
+            "cat": "old",
+            "abbr": "isaiah",
+            "file": "isaiah.json",
+            "title": "이사야",
+            "author": "이사야",
+            "where": "예루살렘",
+            "when": "주전760~698년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jeremiah",
+            "file": "jeremiah.json",
+            "title": "예레미야",
+            "author": "예레미야",
+            "where": "유다/애굽",
+            "when": "주전629~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "lamentations",
+            "file": "lamentations.json",
+            "title": "예레미야 애가",
+            "author": "예레미야",
+            "where": "예루살렘",
+            "when": "주전588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezekiel",
+            "file": "ezekiel.json",
+            "title": "에스겔",
+            "author": "에스겔",
+            "where": "바벨론",
+            "when": "주전595~574년"
+          },
+          {
+            "cat": "old",
+            "abbr": "daniel",
+            "file": "daniel.json",
+            "title": "다니엘",
+            "author": "다니엘",
+            "where": "바벨론(성)/엘람(성)",
+            "when": "주전607~534년"
+          },
+          {
+            "cat": "old",
+            "abbr": "hosea",
+            "file": "hosea.json",
+            "title": "호세아",
+            "author": "호세아",
+            "where": "북이스라엘",
+            "when": "주전785~725년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joel",
+            "file": "joel.json",
+            "title": "요엘",
+            "author": "요엘",
+            "where": "유다",
+            "when": "주전870~865년"
+          },
+          {
+            "cat": "old",
+            "abbr": "amos",
+            "file": "amos.json",
+            "title": "아모스",
+            "author": "아모스",
+            "where": "북이스라엘",
+            "when": "주전787년"
+          },
+          {
+            "cat": "old",
+            "abbr": "obadiah",
+            "file": "obadiah.json",
+            "title": "오바댜",
+            "author": "오바댜",
+            "where": "유다",
+            "when": "주전880년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jonah",
+            "file": "jonah.json",
+            "title": "요나",
+            "author": "요나",
+            "where": "니느웨",
+            "when": "주전862년"
+          },
+          {
+            "cat": "old",
+            "abbr": "micah",
+            "file": "micah.json",
+            "title": "미가",
+            "author": "미가",
+            "where": "유다",
+            "when": "주전750~710년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nahum",
+            "file": "nahum.json",
+            "title": "나훔",
+            "author": "나훔",
+            "where": "유다",
+            "when": "주전 713년"
+          },
+          {
+            "cat": "old",
+            "abbr": "habakkuk",
+            "file": "habakkuk.json",
+            "title": "하박국",
+            "author": "하박국",
+            "where": "유다",
+            "when": "주전626년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zephaniah",
+            "file": "zephaniah.json",
+            "title": "스바냐",
+            "author": "스바냐",
+            "where": "예루살렘",
+            "when": "주전630년"
+          },
+          {
+            "cat": "old",
+            "abbr": "haggai",
+            "file": "haggai.json",
+            "title": "학개",
+            "author": "학개",
+            "where": "예루살렘",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zechariah",
+            "file": "zechariah.json",
+            "title": "스가랴",
+            "author": "스가랴",
+            "where": "유다",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "malachi",
+            "file": "malachi.json",
+            "title": "말라기",
+            "author": "말라기",
+            "where": "예루살렘",
+            "when": "주전400년"
+          },
+          {
+            "cat": "new",
+            "abbr": "matthew",
+            "file": "matthew.json",
+            "title": "마태복음",
+            "author": "마태",
+            "where": "유다",
+            "when": "주후37~40년"
+          },
+          {
+            "cat": "new",
+            "abbr": "mark",
+            "file": "mark.json",
+            "title": "마가복음",
+            "author": "마가",
+            "where": "로마",
+            "when": "주후67~70년"
+          },
+          {
+            "cat": "new",
+            "abbr": "luke",
+            "file": "luke.json",
+            "title": "누가복음",
+            "author": "누가",
+            "where": "",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john",
+            "file": "john.json",
+            "title": "요한복음",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90년"
+          },
+          {
+            "cat": "new",
+            "abbr": "acts",
+            "file": "acts.json",
+            "title": "사도행전",
+            "author": "누가",
+            "where": "로마",
+            "when": "주후67~68년"
+          },
+          {
+            "cat": "new",
+            "abbr": "romans",
+            "file": "romans.json",
+            "title": "로마서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians1",
+            "file": "corinthians1.json",
+            "title": "고린도전서",
+            "author": "바울",
+            "where": "에베소",
+            "when": "주후59년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians2",
+            "file": "corinthians2.json",
+            "title": "고린도후서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "galatians",
+            "file": "galatians.json",
+            "title": "갈라디아서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "ephesians",
+            "file": "ephesians.json",
+            "title": "에베소서",
+            "author": "바울",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philippians",
+            "file": "philippians.json",
+            "title": "빌립보서",
+            "author": "바울/디모데",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "colossians",
+            "file": "colossians.json",
+            "title": "골로새서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians1",
+            "file": "thessalonians1.json",
+            "title": "데살로니가전서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians2",
+            "file": "thessalonians2.json",
+            "title": "데살로니가후서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy1",
+            "file": "timothy1.json",
+            "title": "디모데전서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy2",
+            "file": "timothy2.json",
+            "title": "디모데후서",
+            "author": "바울",
+            "where": "로마 감옥",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "titus",
+            "file": "titus.json",
+            "title": "디도서",
+            "author": "바울",
+            "where": "니고볼리",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philemon",
+            "file": "philemon.json",
+            "title": "빌레몬서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "hebrews",
+            "file": "hebrews.json",
+            "title": "히브리서",
+            "author": "바울",
+            "where": "밀레도",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "james",
+            "file": "james.json",
+            "title": "야고보서",
+            "author": "야고보",
+            "where": "예루살렘",
+            "when": "주후50년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter1",
+            "file": "peter1.json",
+            "title": "베드로전서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter2",
+            "file": "peter2.json",
+            "title": "베드로후서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john1",
+            "file": "john1.json",
+            "title": "요한1서",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90~95년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john2",
+            "file": "john2.json",
+            "title": "요한2서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "john3",
+            "file": "john3.json",
+            "title": "요한3서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "jude",
+            "file": "jude.json",
+            "title": "유다서",
+            "author": "유다",
+            "where": "예루살렘/유다",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "revelation",
+            "file": "revelation.json",
+            "title": "요한계시록",
+            "author": "요한",
+            "where": "밧모섬",
+            "when": "주후90년"
+          }
+        ]
+      },
+      {
+        "bible": "pjnt",
+        "bibleName": "표준새번역",
+        "bibleNameShort": "PJNT",
+        "written": "",
+        "color": "blue lighten-1",
+        "discription": "",
+        "path": "/ko/pjnt/",
+        "books": [
+          {
+            "cat": "old",
+            "abbr": "genesis",
+            "file": "genesis.json",
+            "title": "창세기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": "주전1500년경"
+          },
+          {
+            "cat": "old",
+            "abbr": "exodus",
+            "file": "exodus.json",
+            "title": "출애굽기",
+            "author": "모세",
+            "where": "",
+            "when": "주전1706~1490년"
+          },
+          {
+            "cat": "old",
+            "abbr": "leviticus",
+            "file": "leviticus.json",
+            "title": "레위기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": ""
+          },
+          {
+            "cat": "old",
+            "abbr": "numbers",
+            "file": "numbers.json",
+            "title": "민수기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": " 주전1490~1451년 "
+          },
+          {
+            "cat": "old",
+            "abbr": "deuteronomy",
+            "file": "deuteronomy.json",
+            "title": "신명기",
+            "author": "모세",
+            "where": "모압평원",
+            "when": "주전1491~1451년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joshua",
+            "file": "joshua.json",
+            "title": "여호수아",
+            "author": "여호수아",
+            "where": "모압평원",
+            "when": "주전1451~1426년"
+          },
+          {
+            "cat": "old",
+            "abbr": "judges",
+            "file": "judges.json",
+            "title": "사사기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1425~1120년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ruth",
+            "file": "ruth.json",
+            "title": "룻기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1322~1312년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel1",
+            "file": "samuel1.json",
+            "title": "사무엘상",
+            "author": "사무엘/나단/갓",
+            "where": "에브라임/유다",
+            "when": "주전1171~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel2",
+            "file": "samuel2.json",
+            "title": "사무엘하",
+            "author": "나단/갓",
+            "where": "가나안",
+            "when": "주전1056~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings1",
+            "file": "kings1.json",
+            "title": "열왕기상",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전1015~897년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings2",
+            "file": "kings2.json",
+            "title": "열왕기하",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전896~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles1",
+            "file": "chronicles1.json",
+            "title": "역대상",
+            "author": "에스라",
+            "where": "",
+            "when": "주전1056~1015년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles2",
+            "file": "chronicles2.json",
+            "title": "역대하",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전1015~536년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezra",
+            "file": "ezra.json",
+            "title": "에스라",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전536~457년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nehemiah",
+            "file": "nehemiah.json",
+            "title": "느헤미야",
+            "author": "느헤미야",
+            "where": "예루살렘",
+            "when": "주전446~434년"
+          },
+          {
+            "cat": "old",
+            "abbr": "esther",
+            "file": "esther.json",
+            "title": "에스더",
+            "author": "모르드개",
+            "where": "수산(성)",
+            "when": "주전486년-465년"
+          },
+          {
+            "cat": "old",
+            "abbr": "job",
+            "file": "job.json",
+            "title": "욥기",
+            "author": "욥",
+            "where": "아라비아 광야 서쪽",
+            "when": "주전2000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "psalms",
+            "file": "psalms.json",
+            "title": "시편",
+            "author": "다윗",
+            "where": "이스라엘",
+            "when": "주전1500년"
+          },
+          {
+            "cat": "old",
+            "abbr": "proverbs",
+            "file": "proverbs.json",
+            "title": "잠언",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전1000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ecclesiastes",
+            "file": "ecclesiastes.json",
+            "title": "전도서",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전977년"
+          },
+          {
+            "cat": "old",
+            "abbr": "song",
+            "file": "song.json",
+            "title": "아가",
+            "author": "솔로몬",
+            "where": "이스라엘",
+            "when": "주전970-931년"
+          },
+          {
+            "cat": "old",
+            "abbr": "isaiah",
+            "file": "isaiah.json",
+            "title": "이사야",
+            "author": "이사야",
+            "where": "예루살렘",
+            "when": "주전760~698년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jeremiah",
+            "file": "jeremiah.json",
+            "title": "예레미야",
+            "author": "예레미야",
+            "where": "유다/애굽",
+            "when": "주전629~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "lamentations",
+            "file": "lamentations.json",
+            "title": "예레미야 애가",
+            "author": "예레미야",
+            "where": "예루살렘",
+            "when": "주전588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezekiel",
+            "file": "ezekiel.json",
+            "title": "에스겔",
+            "author": "에스겔",
+            "where": "바벨론",
+            "when": "주전595~574년"
+          },
+          {
+            "cat": "old",
+            "abbr": "daniel",
+            "file": "daniel.json",
+            "title": "다니엘",
+            "author": "다니엘",
+            "where": "바벨론(성)/엘람(성)",
+            "when": "주전607~534년"
+          },
+          {
+            "cat": "old",
+            "abbr": "hosea",
+            "file": "hosea.json",
+            "title": "호세아",
+            "author": "호세아",
+            "where": "북이스라엘",
+            "when": "주전785~725년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joel",
+            "file": "joel.json",
+            "title": "요엘",
+            "author": "요엘",
+            "where": "유다",
+            "when": "주전870~865년"
+          },
+          {
+            "cat": "old",
+            "abbr": "amos",
+            "file": "amos.json",
+            "title": "아모스",
+            "author": "아모스",
+            "where": "북이스라엘",
+            "when": "주전787년"
+          },
+          {
+            "cat": "old",
+            "abbr": "obadiah",
+            "file": "obadiah.json",
+            "title": "오바댜",
+            "author": "오바댜",
+            "where": "유다",
+            "when": "주전880년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jonah",
+            "file": "jonah.json",
+            "title": "요나",
+            "author": "요나",
+            "where": "니느웨",
+            "when": "주전862년"
+          },
+          {
+            "cat": "old",
+            "abbr": "micah",
+            "file": "micah.json",
+            "title": "미가",
+            "author": "미가",
+            "where": "유다",
+            "when": "주전750~710년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nahum",
+            "file": "nahum.json",
+            "title": "나훔",
+            "author": "나훔",
+            "where": "유다",
+            "when": "주전 713년"
+          },
+          {
+            "cat": "old",
+            "abbr": "habakkuk",
+            "file": "habakkuk.json",
+            "title": "하박국",
+            "author": "하박국",
+            "where": "유다",
+            "when": "주전626년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zephaniah",
+            "file": "zephaniah.json",
+            "title": "스바냐",
+            "author": "스바냐",
+            "where": "예루살렘",
+            "when": "주전630년"
+          },
+          {
+            "cat": "old",
+            "abbr": "haggai",
+            "file": "haggai.json",
+            "title": "학개",
+            "author": "학개",
+            "where": "예루살렘",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zechariah",
+            "file": "zechariah.json",
+            "title": "스가랴",
+            "author": "스가랴",
+            "where": "유다",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "malachi",
+            "file": "malachi.json",
+            "title": "말라기",
+            "author": "말라기",
+            "where": "예루살렘",
+            "when": "주전400년"
+          },
+          {
+            "cat": "new",
+            "abbr": "matthew",
+            "file": "matthew.json",
+            "title": "마태복음",
+            "author": "마태",
+            "where": "유다",
+            "when": "주후37~40년"
+          },
+          {
+            "cat": "new",
+            "abbr": "mark",
+            "file": "mark.json",
+            "title": "마가복음",
+            "author": "마가",
+            "where": "로마",
+            "when": "주후67~70년"
+          },
+          {
+            "cat": "new",
+            "abbr": "luke",
+            "file": "luke.json",
+            "title": "누가복음",
+            "author": "누가",
+            "where": "",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john",
+            "file": "john.json",
+            "title": "요한복음",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90년"
+          },
+          {
+            "cat": "new",
+            "abbr": "acts",
+            "file": "acts.json",
+            "title": "사도행전",
+            "author": "누가",
+            "where": "로마",
+            "when": "주후67~68년"
+          },
+          {
+            "cat": "new",
+            "abbr": "romans",
+            "file": "romans.json",
+            "title": "로마서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians1",
+            "file": "corinthians1.json",
+            "title": "고린도전서",
+            "author": "바울",
+            "where": "에베소",
+            "when": "주후59년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians2",
+            "file": "corinthians2.json",
+            "title": "고린도후서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "galatians",
+            "file": "galatians.json",
+            "title": "갈라디아서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "ephesians",
+            "file": "ephesians.json",
+            "title": "에베소서",
+            "author": "바울",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philippians",
+            "file": "philippians.json",
+            "title": "빌립보서",
+            "author": "바울/디모데",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "colossians",
+            "file": "colossians.json",
+            "title": "골로새서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians1",
+            "file": "thessalonians1.json",
+            "title": "데살로니가전서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians2",
+            "file": "thessalonians2.json",
+            "title": "데살로니가후서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy1",
+            "file": "timothy1.json",
+            "title": "디모데전서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy2",
+            "file": "timothy2.json",
+            "title": "디모데후서",
+            "author": "바울",
+            "where": "로마 감옥",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "titus",
+            "file": "titus.json",
+            "title": "디도서",
+            "author": "바울",
+            "where": "니고볼리",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philemon",
+            "file": "philemon.json",
+            "title": "빌레몬서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "hebrews",
+            "file": "hebrews.json",
+            "title": "히브리서",
+            "author": "바울",
+            "where": "밀레도",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "james",
+            "file": "james.json",
+            "title": "야고보서",
+            "author": "야고보",
+            "where": "예루살렘",
+            "when": "주후50년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter1",
+            "file": "peter1.json",
+            "title": "베드로전서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter2",
+            "file": "peter2.json",
+            "title": "베드로후서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john1",
+            "file": "john1.json",
+            "title": "요한1서",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90~95년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john2",
+            "file": "john2.json",
+            "title": "요한2서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "john3",
+            "file": "john3.json",
+            "title": "요한3서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "jude",
+            "file": "jude.json",
+            "title": "유다서",
+            "author": "유다",
+            "where": "예루살렘/유다",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "revelation",
+            "file": "revelation.json",
+            "title": "요한계시록",
+            "author": "요한",
+            "where": "밧모섬",
+            "when": "주후90년"
+          }
+        ]
+      },
+      {
+        "bible": "hdib",
+        "bibleName": "현대인의성경",
+        "bibleNameShort": "HDIB",
+        "written": "",
+        "color": "blue lighten-1",
+        "discription": "",
+        "path": "/ko/hdib/",
+        "books": [
+          {
+            "cat": "old",
+            "abbr": "genesis",
+            "file": "genesis.json",
+            "title": "창세기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": "주전1500년경"
+          },
+          {
+            "cat": "old",
+            "abbr": "exodus",
+            "file": "exodus.json",
+            "title": "출애굽기",
+            "author": "모세",
+            "where": "",
+            "when": "주전1706~1490년"
+          },
+          {
+            "cat": "old",
+            "abbr": "leviticus",
+            "file": "leviticus.json",
+            "title": "레위기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": ""
+          },
+          {
+            "cat": "old",
+            "abbr": "numbers",
+            "file": "numbers.json",
+            "title": "민수기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": " 주전1490~1451년 "
+          },
+          {
+            "cat": "old",
+            "abbr": "deuteronomy",
+            "file": "deuteronomy.json",
+            "title": "신명기",
+            "author": "모세",
+            "where": "모압평원",
+            "when": "주전1491~1451년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joshua",
+            "file": "joshua.json",
+            "title": "여호수아",
+            "author": "여호수아",
+            "where": "모압평원",
+            "when": "주전1451~1426년"
+          },
+          {
+            "cat": "old",
+            "abbr": "judges",
+            "file": "judges.json",
+            "title": "사사기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1425~1120년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ruth",
+            "file": "ruth.json",
+            "title": "룻기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1322~1312년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel1",
+            "file": "samuel1.json",
+            "title": "사무엘상",
+            "author": "사무엘/나단/갓",
+            "where": "에브라임/유다",
+            "when": "주전1171~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel2",
+            "file": "samuel2.json",
+            "title": "사무엘하",
+            "author": "나단/갓",
+            "where": "가나안",
+            "when": "주전1056~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings1",
+            "file": "kings1.json",
+            "title": "열왕기상",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전1015~897년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings2",
+            "file": "kings2.json",
+            "title": "열왕기하",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전896~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles1",
+            "file": "chronicles1.json",
+            "title": "역대상",
+            "author": "에스라",
+            "where": "",
+            "when": "주전1056~1015년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles2",
+            "file": "chronicles2.json",
+            "title": "역대하",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전1015~536년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezra",
+            "file": "ezra.json",
+            "title": "에스라",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전536~457년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nehemiah",
+            "file": "nehemiah.json",
+            "title": "느헤미야",
+            "author": "느헤미야",
+            "where": "예루살렘",
+            "when": "주전446~434년"
+          },
+          {
+            "cat": "old",
+            "abbr": "esther",
+            "file": "esther.json",
+            "title": "에스더",
+            "author": "모르드개",
+            "where": "수산(성)",
+            "when": "주전486년-465년"
+          },
+          {
+            "cat": "old",
+            "abbr": "job",
+            "file": "job.json",
+            "title": "욥기",
+            "author": "욥",
+            "where": "아라비아 광야 서쪽",
+            "when": "주전2000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "psalms",
+            "file": "psalms.json",
+            "title": "시편",
+            "author": "다윗",
+            "where": "이스라엘",
+            "when": "주전1500년"
+          },
+          {
+            "cat": "old",
+            "abbr": "proverbs",
+            "file": "proverbs.json",
+            "title": "잠언",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전1000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ecclesiastes",
+            "file": "ecclesiastes.json",
+            "title": "전도서",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전977년"
+          },
+          {
+            "cat": "old",
+            "abbr": "song",
+            "file": "song.json",
+            "title": "아가",
+            "author": "솔로몬",
+            "where": "이스라엘",
+            "when": "주전970-931년"
+          },
+          {
+            "cat": "old",
+            "abbr": "isaiah",
+            "file": "isaiah.json",
+            "title": "이사야",
+            "author": "이사야",
+            "where": "예루살렘",
+            "when": "주전760~698년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jeremiah",
+            "file": "jeremiah.json",
+            "title": "예레미야",
+            "author": "예레미야",
+            "where": "유다/애굽",
+            "when": "주전629~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "lamentations",
+            "file": "lamentations.json",
+            "title": "예레미야 애가",
+            "author": "예레미야",
+            "where": "예루살렘",
+            "when": "주전588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezekiel",
+            "file": "ezekiel.json",
+            "title": "에스겔",
+            "author": "에스겔",
+            "where": "바벨론",
+            "when": "주전595~574년"
+          },
+          {
+            "cat": "old",
+            "abbr": "daniel",
+            "file": "daniel.json",
+            "title": "다니엘",
+            "author": "다니엘",
+            "where": "바벨론(성)/엘람(성)",
+            "when": "주전607~534년"
+          },
+          {
+            "cat": "old",
+            "abbr": "hosea",
+            "file": "hosea.json",
+            "title": "호세아",
+            "author": "호세아",
+            "where": "북이스라엘",
+            "when": "주전785~725년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joel",
+            "file": "joel.json",
+            "title": "요엘",
+            "author": "요엘",
+            "where": "유다",
+            "when": "주전870~865년"
+          },
+          {
+            "cat": "old",
+            "abbr": "amos",
+            "file": "amos.json",
+            "title": "아모스",
+            "author": "아모스",
+            "where": "북이스라엘",
+            "when": "주전787년"
+          },
+          {
+            "cat": "old",
+            "abbr": "obadiah",
+            "file": "obadiah.json",
+            "title": "오바댜",
+            "author": "오바댜",
+            "where": "유다",
+            "when": "주전880년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jonah",
+            "file": "jonah.json",
+            "title": "요나",
+            "author": "요나",
+            "where": "니느웨",
+            "when": "주전862년"
+          },
+          {
+            "cat": "old",
+            "abbr": "micah",
+            "file": "micah.json",
+            "title": "미가",
+            "author": "미가",
+            "where": "유다",
+            "when": "주전750~710년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nahum",
+            "file": "nahum.json",
+            "title": "나훔",
+            "author": "나훔",
+            "where": "유다",
+            "when": "주전 713년"
+          },
+          {
+            "cat": "old",
+            "abbr": "habakkuk",
+            "file": "habakkuk.json",
+            "title": "하박국",
+            "author": "하박국",
+            "where": "유다",
+            "when": "주전626년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zephaniah",
+            "file": "zephaniah.json",
+            "title": "스바냐",
+            "author": "스바냐",
+            "where": "예루살렘",
+            "when": "주전630년"
+          },
+          {
+            "cat": "old",
+            "abbr": "haggai",
+            "file": "haggai.json",
+            "title": "학개",
+            "author": "학개",
+            "where": "예루살렘",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zechariah",
+            "file": "zechariah.json",
+            "title": "스가랴",
+            "author": "스가랴",
+            "where": "유다",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "malachi",
+            "file": "malachi.json",
+            "title": "말라기",
+            "author": "말라기",
+            "where": "예루살렘",
+            "when": "주전400년"
+          },
+          {
+            "cat": "new",
+            "abbr": "matthew",
+            "file": "matthew.json",
+            "title": "마태복음",
+            "author": "마태",
+            "where": "유다",
+            "when": "주후37~40년"
+          },
+          {
+            "cat": "new",
+            "abbr": "mark",
+            "file": "mark.json",
+            "title": "마가복음",
+            "author": "마가",
+            "where": "로마",
+            "when": "주후67~70년"
+          },
+          {
+            "cat": "new",
+            "abbr": "luke",
+            "file": "luke.json",
+            "title": "누가복음",
+            "author": "누가",
+            "where": "",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john",
+            "file": "john.json",
+            "title": "요한복음",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90년"
+          },
+          {
+            "cat": "new",
+            "abbr": "acts",
+            "file": "acts.json",
+            "title": "사도행전",
+            "author": "누가",
+            "where": "로마",
+            "when": "주후67~68년"
+          },
+          {
+            "cat": "new",
+            "abbr": "romans",
+            "file": "romans.json",
+            "title": "로마서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians1",
+            "file": "corinthians1.json",
+            "title": "고린도전서",
+            "author": "바울",
+            "where": "에베소",
+            "when": "주후59년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians2",
+            "file": "corinthians2.json",
+            "title": "고린도후서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "galatians",
+            "file": "galatians.json",
+            "title": "갈라디아서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "ephesians",
+            "file": "ephesians.json",
+            "title": "에베소서",
+            "author": "바울",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philippians",
+            "file": "philippians.json",
+            "title": "빌립보서",
+            "author": "바울/디모데",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "colossians",
+            "file": "colossians.json",
+            "title": "골로새서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians1",
+            "file": "thessalonians1.json",
+            "title": "데살로니가전서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians2",
+            "file": "thessalonians2.json",
+            "title": "데살로니가후서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy1",
+            "file": "timothy1.json",
+            "title": "디모데전서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy2",
+            "file": "timothy2.json",
+            "title": "디모데후서",
+            "author": "바울",
+            "where": "로마 감옥",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "titus",
+            "file": "titus.json",
+            "title": "디도서",
+            "author": "바울",
+            "where": "니고볼리",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philemon",
+            "file": "philemon.json",
+            "title": "빌레몬서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "hebrews",
+            "file": "hebrews.json",
+            "title": "히브리서",
+            "author": "바울",
+            "where": "밀레도",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "james",
+            "file": "james.json",
+            "title": "야고보서",
+            "author": "야고보",
+            "where": "예루살렘",
+            "when": "주후50년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter1",
+            "file": "peter1.json",
+            "title": "베드로전서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter2",
+            "file": "peter2.json",
+            "title": "베드로후서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john1",
+            "file": "john1.json",
+            "title": "요한1서",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90~95년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john2",
+            "file": "john2.json",
+            "title": "요한2서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "john3",
+            "file": "john3.json",
+            "title": "요한3서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "jude",
+            "file": "jude.json",
+            "title": "유다서",
+            "author": "유다",
+            "where": "예루살렘/유다",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "revelation",
+            "file": "revelation.json",
+            "title": "요한계시록",
+            "author": "요한",
+            "where": "밧모섬",
+            "when": "주후90년"
+          }
+        ]
+      },
+      {
+        "bible": "brb",
+        "bibleName": "바른성경",
+        "bibleNameShort": "BRB",
+        "written": "",
+        "color": "blue lighten-1",
+        "discription": "",
+        "path": "/ko/brb/",
+        "books": [
+          {
+            "cat": "old",
+            "abbr": "genesis",
+            "file": "genesis.json",
+            "title": "창세기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": "주전1500년경"
+          },
+          {
+            "cat": "old",
+            "abbr": "exodus",
+            "file": "exodus.json",
+            "title": "출애굽기",
+            "author": "모세",
+            "where": "",
+            "when": "주전1706~1490년"
+          },
+          {
+            "cat": "old",
+            "abbr": "leviticus",
+            "file": "leviticus.json",
+            "title": "레위기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": ""
+          },
+          {
+            "cat": "old",
+            "abbr": "numbers",
+            "file": "numbers.json",
+            "title": "민수기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": " 주전1490~1451년 "
+          },
+          {
+            "cat": "old",
+            "abbr": "deuteronomy",
+            "file": "deuteronomy.json",
+            "title": "신명기",
+            "author": "모세",
+            "where": "모압평원",
+            "when": "주전1491~1451년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joshua",
+            "file": "joshua.json",
+            "title": "여호수아",
+            "author": "여호수아",
+            "where": "모압평원",
+            "when": "주전1451~1426년"
+          },
+          {
+            "cat": "old",
+            "abbr": "judges",
+            "file": "judges.json",
+            "title": "사사기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1425~1120년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ruth",
+            "file": "ruth.json",
+            "title": "룻기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1322~1312년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel1",
+            "file": "samuel1.json",
+            "title": "사무엘상",
+            "author": "사무엘/나단/갓",
+            "where": "에브라임/유다",
+            "when": "주전1171~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel2",
+            "file": "samuel2.json",
+            "title": "사무엘하",
+            "author": "나단/갓",
+            "where": "가나안",
+            "when": "주전1056~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings1",
+            "file": "kings1.json",
+            "title": "열왕기상",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전1015~897년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings2",
+            "file": "kings2.json",
+            "title": "열왕기하",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전896~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles1",
+            "file": "chronicles1.json",
+            "title": "역대상",
+            "author": "에스라",
+            "where": "",
+            "when": "주전1056~1015년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles2",
+            "file": "chronicles2.json",
+            "title": "역대하",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전1015~536년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezra",
+            "file": "ezra.json",
+            "title": "에스라",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전536~457년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nehemiah",
+            "file": "nehemiah.json",
+            "title": "느헤미야",
+            "author": "느헤미야",
+            "where": "예루살렘",
+            "when": "주전446~434년"
+          },
+          {
+            "cat": "old",
+            "abbr": "esther",
+            "file": "esther.json",
+            "title": "에스더",
+            "author": "모르드개",
+            "where": "수산(성)",
+            "when": "주전486년-465년"
+          },
+          {
+            "cat": "old",
+            "abbr": "job",
+            "file": "job.json",
+            "title": "욥기",
+            "author": "욥",
+            "where": "아라비아 광야 서쪽",
+            "when": "주전2000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "psalms",
+            "file": "psalms.json",
+            "title": "시편",
+            "author": "다윗",
+            "where": "이스라엘",
+            "when": "주전1500년"
+          },
+          {
+            "cat": "old",
+            "abbr": "proverbs",
+            "file": "proverbs.json",
+            "title": "잠언",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전1000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ecclesiastes",
+            "file": "ecclesiastes.json",
+            "title": "전도서",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전977년"
+          },
+          {
+            "cat": "old",
+            "abbr": "song",
+            "file": "song.json",
+            "title": "아가",
+            "author": "솔로몬",
+            "where": "이스라엘",
+            "when": "주전970-931년"
+          },
+          {
+            "cat": "old",
+            "abbr": "isaiah",
+            "file": "isaiah.json",
+            "title": "이사야",
+            "author": "이사야",
+            "where": "예루살렘",
+            "when": "주전760~698년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jeremiah",
+            "file": "jeremiah.json",
+            "title": "예레미야",
+            "author": "예레미야",
+            "where": "유다/애굽",
+            "when": "주전629~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "lamentations",
+            "file": "lamentations.json",
+            "title": "예레미야 애가",
+            "author": "예레미야",
+            "where": "예루살렘",
+            "when": "주전588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezekiel",
+            "file": "ezekiel.json",
+            "title": "에스겔",
+            "author": "에스겔",
+            "where": "바벨론",
+            "when": "주전595~574년"
+          },
+          {
+            "cat": "old",
+            "abbr": "daniel",
+            "file": "daniel.json",
+            "title": "다니엘",
+            "author": "다니엘",
+            "where": "바벨론(성)/엘람(성)",
+            "when": "주전607~534년"
+          },
+          {
+            "cat": "old",
+            "abbr": "hosea",
+            "file": "hosea.json",
+            "title": "호세아",
+            "author": "호세아",
+            "where": "북이스라엘",
+            "when": "주전785~725년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joel",
+            "file": "joel.json",
+            "title": "요엘",
+            "author": "요엘",
+            "where": "유다",
+            "when": "주전870~865년"
+          },
+          {
+            "cat": "old",
+            "abbr": "amos",
+            "file": "amos.json",
+            "title": "아모스",
+            "author": "아모스",
+            "where": "북이스라엘",
+            "when": "주전787년"
+          },
+          {
+            "cat": "old",
+            "abbr": "obadiah",
+            "file": "obadiah.json",
+            "title": "오바댜",
+            "author": "오바댜",
+            "where": "유다",
+            "when": "주전880년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jonah",
+            "file": "jonah.json",
+            "title": "요나",
+            "author": "요나",
+            "where": "니느웨",
+            "when": "주전862년"
+          },
+          {
+            "cat": "old",
+            "abbr": "micah",
+            "file": "micah.json",
+            "title": "미가",
+            "author": "미가",
+            "where": "유다",
+            "when": "주전750~710년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nahum",
+            "file": "nahum.json",
+            "title": "나훔",
+            "author": "나훔",
+            "where": "유다",
+            "when": "주전 713년"
+          },
+          {
+            "cat": "old",
+            "abbr": "habakkuk",
+            "file": "habakkuk.json",
+            "title": "하박국",
+            "author": "하박국",
+            "where": "유다",
+            "when": "주전626년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zephaniah",
+            "file": "zephaniah.json",
+            "title": "스바냐",
+            "author": "스바냐",
+            "where": "예루살렘",
+            "when": "주전630년"
+          },
+          {
+            "cat": "old",
+            "abbr": "haggai",
+            "file": "haggai.json",
+            "title": "학개",
+            "author": "학개",
+            "where": "예루살렘",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zechariah",
+            "file": "zechariah.json",
+            "title": "스가랴",
+            "author": "스가랴",
+            "where": "유다",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "malachi",
+            "file": "malachi.json",
+            "title": "말라기",
+            "author": "말라기",
+            "where": "예루살렘",
+            "when": "주전400년"
+          },
+          {
+            "cat": "new",
+            "abbr": "matthew",
+            "file": "matthew.json",
+            "title": "마태복음",
+            "author": "마태",
+            "where": "유다",
+            "when": "주후37~40년"
+          },
+          {
+            "cat": "new",
+            "abbr": "mark",
+            "file": "mark.json",
+            "title": "마가복음",
+            "author": "마가",
+            "where": "로마",
+            "when": "주후67~70년"
+          },
+          {
+            "cat": "new",
+            "abbr": "luke",
+            "file": "luke.json",
+            "title": "누가복음",
+            "author": "누가",
+            "where": "",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john",
+            "file": "john.json",
+            "title": "요한복음",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90년"
+          },
+          {
+            "cat": "new",
+            "abbr": "acts",
+            "file": "acts.json",
+            "title": "사도행전",
+            "author": "누가",
+            "where": "로마",
+            "when": "주후67~68년"
+          },
+          {
+            "cat": "new",
+            "abbr": "romans",
+            "file": "romans.json",
+            "title": "로마서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians1",
+            "file": "corinthians1.json",
+            "title": "고린도전서",
+            "author": "바울",
+            "where": "에베소",
+            "when": "주후59년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians2",
+            "file": "corinthians2.json",
+            "title": "고린도후서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "galatians",
+            "file": "galatians.json",
+            "title": "갈라디아서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "ephesians",
+            "file": "ephesians.json",
+            "title": "에베소서",
+            "author": "바울",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philippians",
+            "file": "philippians.json",
+            "title": "빌립보서",
+            "author": "바울/디모데",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "colossians",
+            "file": "colossians.json",
+            "title": "골로새서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians1",
+            "file": "thessalonians1.json",
+            "title": "데살로니가전서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians2",
+            "file": "thessalonians2.json",
+            "title": "데살로니가후서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy1",
+            "file": "timothy1.json",
+            "title": "디모데전서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy2",
+            "file": "timothy2.json",
+            "title": "디모데후서",
+            "author": "바울",
+            "where": "로마 감옥",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "titus",
+            "file": "titus.json",
+            "title": "디도서",
+            "author": "바울",
+            "where": "니고볼리",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philemon",
+            "file": "philemon.json",
+            "title": "빌레몬서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "hebrews",
+            "file": "hebrews.json",
+            "title": "히브리서",
+            "author": "바울",
+            "where": "밀레도",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "james",
+            "file": "james.json",
+            "title": "야고보서",
+            "author": "야고보",
+            "where": "예루살렘",
+            "when": "주후50년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter1",
+            "file": "peter1.json",
+            "title": "베드로전서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter2",
+            "file": "peter2.json",
+            "title": "베드로후서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john1",
+            "file": "john1.json",
+            "title": "요한1서",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90~95년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john2",
+            "file": "john2.json",
+            "title": "요한2서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "john3",
+            "file": "john3.json",
+            "title": "요한3서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "jude",
+            "file": "jude.json",
+            "title": "유다서",
+            "author": "유다",
+            "where": "예루살렘/유다",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "revelation",
+            "file": "revelation.json",
+            "title": "요한계시록",
+            "author": "요한",
+            "where": "밧모섬",
+            "when": "주후90년"
+          }
+        ]
+      },
+      {
+        "bible": "hdb",
+        "bibleName": "현대어성경",
+        "bibleNameShort": "HDB",
+        "written": "",
+        "color": "blue lighten-1",
+        "discription": "",
+        "path": "/ko/hdb/",
+        "books": [
+          {
+            "cat": "old",
+            "abbr": "genesis",
+            "file": "genesis.json",
+            "title": "창세기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": "주전1500년경"
+          },
+          {
+            "cat": "old",
+            "abbr": "exodus",
+            "file": "exodus.json",
+            "title": "출애굽기",
+            "author": "모세",
+            "where": "",
+            "when": "주전1706~1490년"
+          },
+          {
+            "cat": "old",
+            "abbr": "leviticus",
+            "file": "leviticus.json",
+            "title": "레위기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": ""
+          },
+          {
+            "cat": "old",
+            "abbr": "numbers",
+            "file": "numbers.json",
+            "title": "민수기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": " 주전1490~1451년 "
+          },
+          {
+            "cat": "old",
+            "abbr": "deuteronomy",
+            "file": "deuteronomy.json",
+            "title": "신명기",
+            "author": "모세",
+            "where": "모압평원",
+            "when": "주전1491~1451년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joshua",
+            "file": "joshua.json",
+            "title": "여호수아",
+            "author": "여호수아",
+            "where": "모압평원",
+            "when": "주전1451~1426년"
+          },
+          {
+            "cat": "old",
+            "abbr": "judges",
+            "file": "judges.json",
+            "title": "사사기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1425~1120년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ruth",
+            "file": "ruth.json",
+            "title": "룻기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1322~1312년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel1",
+            "file": "samuel1.json",
+            "title": "사무엘상",
+            "author": "사무엘/나단/갓",
+            "where": "에브라임/유다",
+            "when": "주전1171~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel2",
+            "file": "samuel2.json",
+            "title": "사무엘하",
+            "author": "나단/갓",
+            "where": "가나안",
+            "when": "주전1056~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings1",
+            "file": "kings1.json",
+            "title": "열왕기상",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전1015~897년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings2",
+            "file": "kings2.json",
+            "title": "열왕기하",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전896~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles1",
+            "file": "chronicles1.json",
+            "title": "역대상",
+            "author": "에스라",
+            "where": "",
+            "when": "주전1056~1015년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles2",
+            "file": "chronicles2.json",
+            "title": "역대하",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전1015~536년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezra",
+            "file": "ezra.json",
+            "title": "에스라",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전536~457년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nehemiah",
+            "file": "nehemiah.json",
+            "title": "느헤미야",
+            "author": "느헤미야",
+            "where": "예루살렘",
+            "when": "주전446~434년"
+          },
+          {
+            "cat": "old",
+            "abbr": "esther",
+            "file": "esther.json",
+            "title": "에스더",
+            "author": "모르드개",
+            "where": "수산(성)",
+            "when": "주전486년-465년"
+          },
+          {
+            "cat": "old",
+            "abbr": "job",
+            "file": "job.json",
+            "title": "욥기",
+            "author": "욥",
+            "where": "아라비아 광야 서쪽",
+            "when": "주전2000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "psalms",
+            "file": "psalms.json",
+            "title": "시편",
+            "author": "다윗",
+            "where": "이스라엘",
+            "when": "주전1500년"
+          },
+          {
+            "cat": "old",
+            "abbr": "proverbs",
+            "file": "proverbs.json",
+            "title": "잠언",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전1000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ecclesiastes",
+            "file": "ecclesiastes.json",
+            "title": "전도서",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전977년"
+          },
+          {
+            "cat": "old",
+            "abbr": "song",
+            "file": "song.json",
+            "title": "아가",
+            "author": "솔로몬",
+            "where": "이스라엘",
+            "when": "주전970-931년"
+          },
+          {
+            "cat": "old",
+            "abbr": "isaiah",
+            "file": "isaiah.json",
+            "title": "이사야",
+            "author": "이사야",
+            "where": "예루살렘",
+            "when": "주전760~698년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jeremiah",
+            "file": "jeremiah.json",
+            "title": "예레미야",
+            "author": "예레미야",
+            "where": "유다/애굽",
+            "when": "주전629~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "lamentations",
+            "file": "lamentations.json",
+            "title": "예레미야 애가",
+            "author": "예레미야",
+            "where": "예루살렘",
+            "when": "주전588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezekiel",
+            "file": "ezekiel.json",
+            "title": "에스겔",
+            "author": "에스겔",
+            "where": "바벨론",
+            "when": "주전595~574년"
+          },
+          {
+            "cat": "old",
+            "abbr": "daniel",
+            "file": "daniel.json",
+            "title": "다니엘",
+            "author": "다니엘",
+            "where": "바벨론(성)/엘람(성)",
+            "when": "주전607~534년"
+          },
+          {
+            "cat": "old",
+            "abbr": "hosea",
+            "file": "hosea.json",
+            "title": "호세아",
+            "author": "호세아",
+            "where": "북이스라엘",
+            "when": "주전785~725년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joel",
+            "file": "joel.json",
+            "title": "요엘",
+            "author": "요엘",
+            "where": "유다",
+            "when": "주전870~865년"
+          },
+          {
+            "cat": "old",
+            "abbr": "amos",
+            "file": "amos.json",
+            "title": "아모스",
+            "author": "아모스",
+            "where": "북이스라엘",
+            "when": "주전787년"
+          },
+          {
+            "cat": "old",
+            "abbr": "obadiah",
+            "file": "obadiah.json",
+            "title": "오바댜",
+            "author": "오바댜",
+            "where": "유다",
+            "when": "주전880년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jonah",
+            "file": "jonah.json",
+            "title": "요나",
+            "author": "요나",
+            "where": "니느웨",
+            "when": "주전862년"
+          },
+          {
+            "cat": "old",
+            "abbr": "micah",
+            "file": "micah.json",
+            "title": "미가",
+            "author": "미가",
+            "where": "유다",
+            "when": "주전750~710년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nahum",
+            "file": "nahum.json",
+            "title": "나훔",
+            "author": "나훔",
+            "where": "유다",
+            "when": "주전 713년"
+          },
+          {
+            "cat": "old",
+            "abbr": "habakkuk",
+            "file": "habakkuk.json",
+            "title": "하박국",
+            "author": "하박국",
+            "where": "유다",
+            "when": "주전626년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zephaniah",
+            "file": "zephaniah.json",
+            "title": "스바냐",
+            "author": "스바냐",
+            "where": "예루살렘",
+            "when": "주전630년"
+          },
+          {
+            "cat": "old",
+            "abbr": "haggai",
+            "file": "haggai.json",
+            "title": "학개",
+            "author": "학개",
+            "where": "예루살렘",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zechariah",
+            "file": "zechariah.json",
+            "title": "스가랴",
+            "author": "스가랴",
+            "where": "유다",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "malachi",
+            "file": "malachi.json",
+            "title": "말라기",
+            "author": "말라기",
+            "where": "예루살렘",
+            "when": "주전400년"
+          },
+          {
+            "cat": "new",
+            "abbr": "matthew",
+            "file": "matthew.json",
+            "title": "마태복음",
+            "author": "마태",
+            "where": "유다",
+            "when": "주후37~40년"
+          },
+          {
+            "cat": "new",
+            "abbr": "mark",
+            "file": "mark.json",
+            "title": "마가복음",
+            "author": "마가",
+            "where": "로마",
+            "when": "주후67~70년"
+          },
+          {
+            "cat": "new",
+            "abbr": "luke",
+            "file": "luke.json",
+            "title": "누가복음",
+            "author": "누가",
+            "where": "",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john",
+            "file": "john.json",
+            "title": "요한복음",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90년"
+          },
+          {
+            "cat": "new",
+            "abbr": "acts",
+            "file": "acts.json",
+            "title": "사도행전",
+            "author": "누가",
+            "where": "로마",
+            "when": "주후67~68년"
+          },
+          {
+            "cat": "new",
+            "abbr": "romans",
+            "file": "romans.json",
+            "title": "로마서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians1",
+            "file": "corinthians1.json",
+            "title": "고린도전서",
+            "author": "바울",
+            "where": "에베소",
+            "when": "주후59년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians2",
+            "file": "corinthians2.json",
+            "title": "고린도후서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "galatians",
+            "file": "galatians.json",
+            "title": "갈라디아서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "ephesians",
+            "file": "ephesians.json",
+            "title": "에베소서",
+            "author": "바울",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philippians",
+            "file": "philippians.json",
+            "title": "빌립보서",
+            "author": "바울/디모데",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "colossians",
+            "file": "colossians.json",
+            "title": "골로새서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians1",
+            "file": "thessalonians1.json",
+            "title": "데살로니가전서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians2",
+            "file": "thessalonians2.json",
+            "title": "데살로니가후서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy1",
+            "file": "timothy1.json",
+            "title": "디모데전서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy2",
+            "file": "timothy2.json",
+            "title": "디모데후서",
+            "author": "바울",
+            "where": "로마 감옥",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "titus",
+            "file": "titus.json",
+            "title": "디도서",
+            "author": "바울",
+            "where": "니고볼리",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philemon",
+            "file": "philemon.json",
+            "title": "빌레몬서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "hebrews",
+            "file": "hebrews.json",
+            "title": "히브리서",
+            "author": "바울",
+            "where": "밀레도",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "james",
+            "file": "james.json",
+            "title": "야고보서",
+            "author": "야고보",
+            "where": "예루살렘",
+            "when": "주후50년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter1",
+            "file": "peter1.json",
+            "title": "베드로전서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter2",
+            "file": "peter2.json",
+            "title": "베드로후서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john1",
+            "file": "john1.json",
+            "title": "요한1서",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90~95년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john2",
+            "file": "john2.json",
+            "title": "요한2서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "john3",
+            "file": "john3.json",
+            "title": "요한3서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "jude",
+            "file": "jude.json",
+            "title": "유다서",
+            "author": "유다",
+            "where": "예루살렘/유다",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "revelation",
+            "file": "revelation.json",
+            "title": "요한계시록",
+            "author": "요한",
+            "where": "밧모섬",
+            "when": "주후90년"
+          }
+        ]
+      },
+      {
+        "bible": "sub",
+        "bibleName": "쉬운성경",
+        "bibleNameShort": "SUB",
+        "written": "",
+        "color": "blue lighten-1",
+        "discription": "",
+        "path": "/ko/sub/",
+        "books": [
+          {
+            "cat": "old",
+            "abbr": "genesis",
+            "file": "genesis.json",
+            "title": "창세기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": "주전1500년경"
+          },
+          {
+            "cat": "old",
+            "abbr": "exodus",
+            "file": "exodus.json",
+            "title": "출애굽기",
+            "author": "모세",
+            "where": "",
+            "when": "주전1706~1490년"
+          },
+          {
+            "cat": "old",
+            "abbr": "leviticus",
+            "file": "leviticus.json",
+            "title": "레위기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": ""
+          },
+          {
+            "cat": "old",
+            "abbr": "numbers",
+            "file": "numbers.json",
+            "title": "민수기",
+            "author": "모세",
+            "where": "시내산/광야",
+            "when": " 주전1490~1451년 "
+          },
+          {
+            "cat": "old",
+            "abbr": "deuteronomy",
+            "file": "deuteronomy.json",
+            "title": "신명기",
+            "author": "모세",
+            "where": "모압평원",
+            "when": "주전1491~1451년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joshua",
+            "file": "joshua.json",
+            "title": "여호수아",
+            "author": "여호수아",
+            "where": "모압평원",
+            "when": "주전1451~1426년"
+          },
+          {
+            "cat": "old",
+            "abbr": "judges",
+            "file": "judges.json",
+            "title": "사사기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1425~1120년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ruth",
+            "file": "ruth.json",
+            "title": "룻기",
+            "author": "사무엘",
+            "where": "",
+            "when": "주전1322~1312년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel1",
+            "file": "samuel1.json",
+            "title": "사무엘상",
+            "author": "사무엘/나단/갓",
+            "where": "에브라임/유다",
+            "when": "주전1171~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "samuel2",
+            "file": "samuel2.json",
+            "title": "사무엘하",
+            "author": "나단/갓",
+            "where": "가나안",
+            "when": "주전1056~1017년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings1",
+            "file": "kings1.json",
+            "title": "열왕기상",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전1015~897년"
+          },
+          {
+            "cat": "old",
+            "abbr": "kings2",
+            "file": "kings2.json",
+            "title": "열왕기하",
+            "author": "예레미야",
+            "where": "가나안",
+            "when": "주전896~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles1",
+            "file": "chronicles1.json",
+            "title": "역대상",
+            "author": "에스라",
+            "where": "",
+            "when": "주전1056~1015년"
+          },
+          {
+            "cat": "old",
+            "abbr": "chronicles2",
+            "file": "chronicles2.json",
+            "title": "역대하",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전1015~536년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezra",
+            "file": "ezra.json",
+            "title": "에스라",
+            "author": "에스라",
+            "where": "예루살렘",
+            "when": "주전536~457년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nehemiah",
+            "file": "nehemiah.json",
+            "title": "느헤미야",
+            "author": "느헤미야",
+            "where": "예루살렘",
+            "when": "주전446~434년"
+          },
+          {
+            "cat": "old",
+            "abbr": "esther",
+            "file": "esther.json",
+            "title": "에스더",
+            "author": "모르드개",
+            "where": "수산(성)",
+            "when": "주전486년-465년"
+          },
+          {
+            "cat": "old",
+            "abbr": "job",
+            "file": "job.json",
+            "title": "욥기",
+            "author": "욥",
+            "where": "아라비아 광야 서쪽",
+            "when": "주전2000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "psalms",
+            "file": "psalms.json",
+            "title": "시편",
+            "author": "다윗",
+            "where": "이스라엘",
+            "when": "주전1500년"
+          },
+          {
+            "cat": "old",
+            "abbr": "proverbs",
+            "file": "proverbs.json",
+            "title": "잠언",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전1000년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ecclesiastes",
+            "file": "ecclesiastes.json",
+            "title": "전도서",
+            "author": "솔로몬",
+            "where": "예루살렘",
+            "when": "주전977년"
+          },
+          {
+            "cat": "old",
+            "abbr": "song",
+            "file": "song.json",
+            "title": "아가",
+            "author": "솔로몬",
+            "where": "이스라엘",
+            "when": "주전970-931년"
+          },
+          {
+            "cat": "old",
+            "abbr": "isaiah",
+            "file": "isaiah.json",
+            "title": "이사야",
+            "author": "이사야",
+            "where": "예루살렘",
+            "when": "주전760~698년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jeremiah",
+            "file": "jeremiah.json",
+            "title": "예레미야",
+            "author": "예레미야",
+            "where": "유다/애굽",
+            "when": "주전629~588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "lamentations",
+            "file": "lamentations.json",
+            "title": "예레미야 애가",
+            "author": "예레미야",
+            "where": "예루살렘",
+            "when": "주전588년"
+          },
+          {
+            "cat": "old",
+            "abbr": "ezekiel",
+            "file": "ezekiel.json",
+            "title": "에스겔",
+            "author": "에스겔",
+            "where": "바벨론",
+            "when": "주전595~574년"
+          },
+          {
+            "cat": "old",
+            "abbr": "daniel",
+            "file": "daniel.json",
+            "title": "다니엘",
+            "author": "다니엘",
+            "where": "바벨론(성)/엘람(성)",
+            "when": "주전607~534년"
+          },
+          {
+            "cat": "old",
+            "abbr": "hosea",
+            "file": "hosea.json",
+            "title": "호세아",
+            "author": "호세아",
+            "where": "북이스라엘",
+            "when": "주전785~725년"
+          },
+          {
+            "cat": "old",
+            "abbr": "joel",
+            "file": "joel.json",
+            "title": "요엘",
+            "author": "요엘",
+            "where": "유다",
+            "when": "주전870~865년"
+          },
+          {
+            "cat": "old",
+            "abbr": "amos",
+            "file": "amos.json",
+            "title": "아모스",
+            "author": "아모스",
+            "where": "북이스라엘",
+            "when": "주전787년"
+          },
+          {
+            "cat": "old",
+            "abbr": "obadiah",
+            "file": "obadiah.json",
+            "title": "오바댜",
+            "author": "오바댜",
+            "where": "유다",
+            "when": "주전880년"
+          },
+          {
+            "cat": "old",
+            "abbr": "jonah",
+            "file": "jonah.json",
+            "title": "요나",
+            "author": "요나",
+            "where": "니느웨",
+            "when": "주전862년"
+          },
+          {
+            "cat": "old",
+            "abbr": "micah",
+            "file": "micah.json",
+            "title": "미가",
+            "author": "미가",
+            "where": "유다",
+            "when": "주전750~710년"
+          },
+          {
+            "cat": "old",
+            "abbr": "nahum",
+            "file": "nahum.json",
+            "title": "나훔",
+            "author": "나훔",
+            "where": "유다",
+            "when": "주전 713년"
+          },
+          {
+            "cat": "old",
+            "abbr": "habakkuk",
+            "file": "habakkuk.json",
+            "title": "하박국",
+            "author": "하박국",
+            "where": "유다",
+            "when": "주전626년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zephaniah",
+            "file": "zephaniah.json",
+            "title": "스바냐",
+            "author": "스바냐",
+            "where": "예루살렘",
+            "when": "주전630년"
+          },
+          {
+            "cat": "old",
+            "abbr": "haggai",
+            "file": "haggai.json",
+            "title": "학개",
+            "author": "학개",
+            "where": "예루살렘",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "zechariah",
+            "file": "zechariah.json",
+            "title": "스가랴",
+            "author": "스가랴",
+            "where": "유다",
+            "when": "주전520년"
+          },
+          {
+            "cat": "old",
+            "abbr": "malachi",
+            "file": "malachi.json",
+            "title": "말라기",
+            "author": "말라기",
+            "where": "예루살렘",
+            "when": "주전400년"
+          },
+          {
+            "cat": "new",
+            "abbr": "matthew",
+            "file": "matthew.json",
+            "title": "마태복음",
+            "author": "마태",
+            "where": "유다",
+            "when": "주후37~40년"
+          },
+          {
+            "cat": "new",
+            "abbr": "mark",
+            "file": "mark.json",
+            "title": "마가복음",
+            "author": "마가",
+            "where": "로마",
+            "when": "주후67~70년"
+          },
+          {
+            "cat": "new",
+            "abbr": "luke",
+            "file": "luke.json",
+            "title": "누가복음",
+            "author": "누가",
+            "where": "",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john",
+            "file": "john.json",
+            "title": "요한복음",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90년"
+          },
+          {
+            "cat": "new",
+            "abbr": "acts",
+            "file": "acts.json",
+            "title": "사도행전",
+            "author": "누가",
+            "where": "로마",
+            "when": "주후67~68년"
+          },
+          {
+            "cat": "new",
+            "abbr": "romans",
+            "file": "romans.json",
+            "title": "로마서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians1",
+            "file": "corinthians1.json",
+            "title": "고린도전서",
+            "author": "바울",
+            "where": "에베소",
+            "when": "주후59년"
+          },
+          {
+            "cat": "new",
+            "abbr": "corinthians2",
+            "file": "corinthians2.json",
+            "title": "고린도후서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후60년"
+          },
+          {
+            "cat": "new",
+            "abbr": "galatians",
+            "file": "galatians.json",
+            "title": "갈라디아서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "ephesians",
+            "file": "ephesians.json",
+            "title": "에베소서",
+            "author": "바울",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philippians",
+            "file": "philippians.json",
+            "title": "빌립보서",
+            "author": "바울/디모데",
+            "where": "로마",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "colossians",
+            "file": "colossians.json",
+            "title": "골로새서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians1",
+            "file": "thessalonians1.json",
+            "title": "데살로니가전서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "thessalonians2",
+            "file": "thessalonians2.json",
+            "title": "데살로니가후서",
+            "author": "바울",
+            "where": "고린도",
+            "when": "주후54년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy1",
+            "file": "timothy1.json",
+            "title": "디모데전서",
+            "author": "바울",
+            "where": "마게도니아",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "timothy2",
+            "file": "timothy2.json",
+            "title": "디모데후서",
+            "author": "바울",
+            "where": "로마 감옥",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "titus",
+            "file": "titus.json",
+            "title": "디도서",
+            "author": "바울",
+            "where": "니고볼리",
+            "when": "주후65년"
+          },
+          {
+            "cat": "new",
+            "abbr": "philemon",
+            "file": "philemon.json",
+            "title": "빌레몬서",
+            "author": "바울/디모데",
+            "where": "로마 감옥",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "hebrews",
+            "file": "hebrews.json",
+            "title": "히브리서",
+            "author": "바울",
+            "where": "밀레도",
+            "when": "주후67년"
+          },
+          {
+            "cat": "new",
+            "abbr": "james",
+            "file": "james.json",
+            "title": "야고보서",
+            "author": "야고보",
+            "where": "예루살렘",
+            "when": "주후50년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter1",
+            "file": "peter1.json",
+            "title": "베드로전서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후64년"
+          },
+          {
+            "cat": "new",
+            "abbr": "peter2",
+            "file": "peter2.json",
+            "title": "베드로후서",
+            "author": "베드로",
+            "where": "바벨론",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john1",
+            "file": "john1.json",
+            "title": "요한1서",
+            "author": "요한",
+            "where": "에베소",
+            "when": "주후90~95년"
+          },
+          {
+            "cat": "new",
+            "abbr": "john2",
+            "file": "john2.json",
+            "title": "요한2서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "john3",
+            "file": "john3.json",
+            "title": "요한3서",
+            "author": "요한",
+            "where": "에베소",
+            "when": ""
+          },
+          {
+            "cat": "new",
+            "abbr": "jude",
+            "file": "jude.json",
+            "title": "유다서",
+            "author": "유다",
+            "where": "예루살렘/유다",
+            "when": "주후69년"
+          },
+          {
+            "cat": "new",
+            "abbr": "revelation",
+            "file": "revelation.json",
+            "title": "요한계시록",
+            "author": "요한",
+            "where": "밧모섬",
+            "when": "주후90년"
+          }
+        ]
+      }
+    ]
+  }
+]

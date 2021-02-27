@@ -5,20 +5,18 @@
         <PageSlider />
       </v-app-bar>
 
-      <HelloWorld />
+      <router-view></router-view>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
 import PageSlider from "@/components/PageSlider/PageSlider";
 
 export default {
   name: "App",
 
   components: {
-    HelloWorld,
     PageSlider
   },
 
