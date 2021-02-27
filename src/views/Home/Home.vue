@@ -1,12 +1,14 @@
 <template>
   <div class="page--home">
-    aaa
+    <BibleList />
   </div>
 </template>
 
 <script>
+import BibleList from "./BibleList/BibleList";
+
 export default {
   name: "Home",
-  components: {}
+  components: { BibleList }
 };
 </script>
